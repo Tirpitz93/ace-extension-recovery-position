@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project name="adv">
+	<Package name="aceRecovery">
+        <Key ID="STR_ACE_Recovery_Mod_name">
+			<Original>Ace Extension Recovery position</Original>
+        </Key>
+		<Key ID="STR_ACE_Recovery">
+			<Original>%1 placed patient into recovery position.</Original>
+        </Key>
+        <Key ID="STR_ACE_RecoveryLite">
+			<Original>%1 flipped patient onto stomach.</Original>
+        </Key>
+        <Key ID="STR_ACE_Recovery_Desc">
+			<Original>Significantly reduces chance of choking or suffocation.<Original>
+        </Key>
+        <Key ID="STR_ACE_RecoveryLite_Desc">
+			<Original>Somewhat reduces chance of choking or suffocation. Can be performed without leaving combat.</Original>
+        </Key>
+        
+        <Key ID="STR_ACE_Recovery_Status_Lite">
+			<Original>%1 is on their stomach.</Original>
+        </Key>
+        <Key ID="STR_ACE_Recovery_Status">
+			<Original>%1 is in the recovery position.</Original>
+        </Key>
+        <Key ID="STR_ACE_Recovery_Status_Null">
+			<Original>%1 is not in a recovery postion.</Original>
+        </Key>
+        <Key ID="STR_ACE_Recovery_Progress">
+			<Original>Placing in recovery position.</Original>
+        </Key>
+        <Key ID="STR_ACE_RecoveryLite_key_short">
+			<Original>Flip patient onto stomach (Hold).</Original>
+        </Key>
+        <Key ID="STR_ACE_RecoveryLite_key_long">
+			<Original>Key to flip nearby patient onto stomach, walk over/past patient while holding to use.</Original>
+        </Key>
+        <Key ID="STR_ACE_Recovery_key_short">
+			<Original>place into recovery position.</Original>
+        </Key>
+        <Key ID="STR_ACE_Recovery_key_long">
+			<Original>Key to place target into recovery position.</Original>
+        </Key>
+	</Package>
+</Project>
